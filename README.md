@@ -72,7 +72,7 @@ A fully modular first-person shooter built in just **7 days**.
 
 ## Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/therandogo)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/873k4vu62kobi65641283rsxu?si=e656ea00b58b47d8)
 
 ---
 
