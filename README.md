@@ -7,11 +7,11 @@ Hi there! I'm a passionate **Game Developer** specializing in robust systems and
 ## 📊 GitHub Stats & Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/therandogo?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/therandogo?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therandogo&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=therandogo&show_icons=true&theme=tokyonight)
 
 ---
 
