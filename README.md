@@ -79,8 +79,8 @@ A fully modular first-person shooter built in just **7 days**.
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/therandogo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/saahil-ahmed-154340252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=fff)](https://yourportfolio.com](https://saahilahmed16.wixsite.com/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/saahil-ahmed-154340252/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=fff)](https://saahilahmed16.wixsite.com/portfolio)
 
 ---
 
