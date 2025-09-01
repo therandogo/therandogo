@@ -65,8 +65,8 @@ A fully modular first-person shooter built in just **7 days**.
 
 > _Add GIFs or short gameplay clips of your projects here for instant visual impact._
 
-![Hack and Slash Demo](https://media.giphy.com/media/your-gif-link/giphy.gif)
-![Space Rangers Gameplay](https://media.giphy.com/media/your-gif-link/giphy.gif)
+![Hack and Slash Demo](Media/hnsgif1-ezgif.com-optimize.gif)
+![Space Rangers Gameplay](Media/space-ezgif.com-speed.gif)
 
 ---
 
